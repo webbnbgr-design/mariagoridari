@@ -33,7 +33,7 @@ export default function Hero() {
           
           <div className="flex flex-col sm:flex-row gap-4">
             <a
-              href="tel:+302310555555"
+              href="tel:+302310520688"
               className="group flex items-center justify-center gap-3 bg-navy text-white px-8 py-4 rounded-full text-lg font-medium hover:bg-gold transition-all duration-300 shadow-xl shadow-navy/20"
             >
               <Phone size={20} />

@@ -54,7 +54,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="tel:+302310555555"
+            href="tel:+302310520688"
             className="flex items-center gap-2 bg-navy text-white px-5 py-2.5 rounded-full text-sm font-medium hover:bg-gold transition-all duration-300 shadow-lg shadow-navy/10"
           >
             <Phone size={16} />
@@ -92,7 +92,7 @@ export default function Navbar() {
                 </a>
               ))}
               <a
-                href="tel:+302310555555"
+                href="tel:+302310520688"
                 className="flex items-center justify-center gap-2 bg-navy text-white py-4 rounded-xl text-lg font-medium"
               >
                 <Phone size={20} />

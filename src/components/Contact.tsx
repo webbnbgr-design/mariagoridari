@@ -31,8 +31,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-bold text-navy mb-1">Τηλέφωνα</h4>
-                  <p className="text-navy/60">Σταθερό: 2310 555555</p>
-                  <p className="text-navy/60">Κινητό: 6900 000000</p>
+                  <p className="text-navy/60">Σταθερό: 2310 520688</p>
+                  <p className="text-navy/60">Κινητό: 6945 850782</p>
                 </div>
               </div>
 
@@ -51,8 +51,8 @@ export default function Contact() {
             <div className="mt-12 p-6 bg-paper rounded-2xl border border-gold/20">
               <h4 className="font-serif text-xl text-navy mb-2">Χρειάζεστε άμεση βοήθεια;</h4>
               <p className="text-navy/60 text-sm mb-4">Καλέστε μας τώρα για μια πρώτη εκτίμηση της υπόθεσής σας.</p>
-              <a href="tel:+302310555555" className="text-gold font-bold text-lg hover:underline">
-                +30 2310 555555
+              <a href="tel:+302310520688" className="text-gold font-bold text-lg hover:underline">
+                +30 2310 520688
               </a>
             </div>
           </div>
